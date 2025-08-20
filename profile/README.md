@@ -6,7 +6,8 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Master’s in Business Information Systems at Hochschule für Gesellschaft und Wirtschaft, Ludwigshafen  
+- 🎓 B.Sc. in Business Information Systems (Business Engineering)  
+- 📚 Currently pursuing my **M.Sc. in Business Information Systems (Data Science & Consulting)** at Hochschule für Gesellschaft und Wirtschaft, Ludwigshafen  
 - 💼 Technology Consultant at **SAP**  
 - ❤️ Passion for **Open Source**, **Mobile Apps**, and **Software Security**  
 - 🌍 Combining engineering skills with consulting to deliver secure, user-friendly solutions  
