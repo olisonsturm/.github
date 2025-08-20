@@ -15,9 +15,8 @@
 ---
 
 ### 🔧 Tech Focus
-- Mobile Development (Flutter, Android, iOS)  
-- Software Security & Compliance  
-- Cloud & Enterprise Integration  
+- Mobile Development (Flutter, Android, iOS)   
+- Cloud & Enterprise Integration
 
 ---
 
