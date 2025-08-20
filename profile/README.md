@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I’m Olison Sturm</h1>
+<p align="center">
+  <em>Technology Consultant @ SAP • Master’s Student @ HS Ludwigshafen • Open-Source Enthusiast</em>
+</p>
 
-<!--
-**olisonsturm/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Master’s in Business Information Systems at Hochschule für Gesellschaft und Wirtschaft, Ludwigshafen  
+- 💼 Technology Consultant at **SAP**  
+- ❤️ Passion for **Open Source**, **Mobile Apps**, and **Software Security**  
+- 🌍 Combining engineering skills with consulting to deliver secure, user-friendly solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Focus
+- Mobile Development (Flutter, Android, iOS)  
+- Software Security & Compliance  
+- Cloud & Enterprise Integration  
+
+---
+
+### 🤝 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olison%20Sturm-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olisonsturm)
