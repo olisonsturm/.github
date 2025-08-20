@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m Olison Sturm</h1>
+<h1 align="center">Hi 👋, I’m Oli</h1>
 <p align="center">
   <em>Technology Consultant @ SAP • Master’s Student @ HS Ludwigshafen • Open-Source Enthusiast</em>
 </p>
