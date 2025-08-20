@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I’m Oli</h1>
 <p align="center">
-  <em>Technology Consultant @ SAP • Master’s Student @ HS Ludwigshafen • Open-Source Enthusiast</em>
+  <em>Technology Consultant @ SAP • Master’s Student @ LUBS • Open-Source Enthusiast</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 B.Sc. in Business Information Systems (Business Engineering)  
-- 📚 Currently pursuing my **M.Sc. in Business Information Systems (Data Science & Consulting)** at Hochschule für Gesellschaft und Wirtschaft, Ludwigshafen  
+- 📚 Currently pursuing my **M.Sc. in Business Information Systems (Data Science & Consulting)** at Ludwigshafen University of Business and Society 
 - 💼 Technology Consultant at **SAP**  
 - ❤️ Passion for **Open Source**, **Mobile Apps**, and **Software Security**  
 - 🌍 Combining engineering skills with consulting to deliver secure, user-friendly solutions  
